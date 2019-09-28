@@ -20,7 +20,19 @@ git log for changelog
 
 git diff doesnt work after a new commit
 git diff record changes
+git remote set-url
+git remote remove origin
+git remote -v
+git remote set-url alink
 
-remote add origin
-remote -v
-remote set-url origin 
+changes to the repository
+
+git push origin master/(branch)
+git checkout -b NewBranch
+git checkout NewBranch
+git checkout previouslogHASH // rollback
+git branch -v
+git merge NewBranch
+
+ls
+
