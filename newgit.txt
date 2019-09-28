@@ -17,3 +17,6 @@ edit file
 git diff filename.ext //changes
 
 git log for changelog
+
+git diff doesnt work after a new commit
+git diff record changes
