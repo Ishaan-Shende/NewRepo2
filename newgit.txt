@@ -20,3 +20,7 @@ git log for changelog
 
 git diff doesnt work after a new commit
 git diff record changes
+
+remote add origin
+remote -v
+remote set-url origin 
