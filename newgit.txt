@@ -15,4 +15,5 @@ without -m a text editor will ask for a message
 esc , cmd line :wq!
 edit file
 git diff filename.ext //changes
-lol
+
+git log for changelog
